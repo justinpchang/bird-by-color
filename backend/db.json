@@ -1,0 +1,499 @@
+{
+  "species": {
+    "bbwduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954711/",
+      "commonName": "Black-bellied Whistling-Duck",
+      "scientificName": "Dendrocygna autumnalis"
+    },
+    "snogoo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361895111/",
+      "commonName": "Snow Goose",
+      "scientificName": "Anser caerulescens"
+    },
+    "cangoo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950721/poster",
+      "commonName": "Canada Goose",
+      "scientificName": "Branta canadensis"
+    },
+    "mutswa": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361923561/",
+      "commonName": "Mute Swan",
+      "scientificName": "Cygnus olor"
+    },
+    "tunswa": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361669301/",
+      "commonName": "Tundra Swan",
+      "scientificName": "Cygnus columbianus"
+    },
+    "wooduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956491/",
+      "commonName": "Wood Duck",
+      "scientificName": "Aix sponsa"
+    },
+    "buwtea": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956241/",
+      "commonName": "Blue-winged Teal",
+      "scientificName": "Spatula discors"
+    },
+    "norsho": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361941661/",
+      "commonName": "Northern Shoveler",
+      "scientificName": "Spatula clypeata"
+    },
+    "gadwal": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361944531/",
+      "commonName": "Gadwall",
+      "scientificName": "Mareca strepera"
+    },
+    "amewig": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361893381/",
+      "commonName": "American Wigeon",
+      "scientificName": "Mareca americana"
+    },
+    "mallar3": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361952241/",
+      "commonName": "Mallard",
+      "scientificName": "Anas platyrhynchos"
+    },
+    "ambduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361948391/",
+      "commonName": "American Black Duck",
+      "scientificName": "Anas rubripes"
+    },
+    "motduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361910591/",
+      "commonName": "Mottled Duck",
+      "scientificName": "Anas fulvigula"
+    },
+    "norpin": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361941111/",
+      "commonName": "Northern Pintail",
+      "scientificName": "Anas acuta"
+    },
+    "gnwtea": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956341/",
+      "commonName": "Green-winged Teal",
+      "scientificName": "Anas crecca"
+    },
+    "canvas": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361647111/",
+      "commonName": "Canvasback",
+      "scientificName": "Aythya valisineria"
+    },
+    "redhea": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953451/",
+      "commonName": "Redhead",
+      "scientificName": "Aythya americana"
+    },
+    "rinduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361921351/",
+      "commonName": "Ring-necked Duck",
+      "scientificName": "Aythya collaris"
+    },
+    "gresca": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361866561/",
+      "commonName": "Greater Scaup",
+      "scientificName": "Aythya marila"
+    },
+    "lessca": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361898901/",
+      "commonName": "Lesser Scaup",
+      "scientificName": "Aythya affinis"
+    },
+    "comeid": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951141/",
+      "commonName": "Common Eider",
+      "scientificName": "Somateria mollissima"
+    },
+    "harduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361947121/",
+      "commonName": "Harlequin Duck",
+      "scientificName": "Histrionicus histrionicus"
+    },
+    "sursco": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361849931/",
+      "commonName": "Surf Scoter",
+      "scientificName": "Melanitta perspicillata"
+    },
+    "whwsco2": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361930211/",
+      "commonName": "White-winged Scoter",
+      "scientificName": "Melanitta deglandi"
+    },
+    "blksco2": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361897151/",
+      "commonName": "Black Scoter",
+      "scientificName": "Melanitta americana"
+    },
+    "lotduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361850911/",
+      "commonName": "Long-tailed Duck",
+      "scientificName": "Clangula hyemalis"
+    },
+    "buffle": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361944511/",
+      "commonName": "Bufflehead",
+      "scientificName": "Bucephala albeola"
+    },
+    "comgol": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361912791/",
+      "commonName": "Common Goldeneye",
+      "scientificName": "Bucephala clangula"
+    },
+    "hoomer": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951661/",
+      "commonName": "Hooded Merganser",
+      "scientificName": "Lophodytes cucullatus"
+    },
+    "commer": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361952261/",
+      "commonName": "Common Merganser",
+      "scientificName": "Mergus merganser"
+    },
+    "rebmer": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361747361/",
+      "commonName": "Red-breasted Merganser",
+      "scientificName": "Mergus serrator"
+    },
+    "rudduc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361944501/",
+      "commonName": "Ruddy Duck",
+      "scientificName": "Oxyura jamaicensis"
+    },
+    "norbob": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361938071/poster",
+      "commonName": "Northern Bobwhite",
+      "scientificName": "Colinus virginianus"
+    },
+    "wiltur": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951161/",
+      "commonName": "Wild Turkey",
+      "scientificName": "Meleagris gallopavo"
+    },
+    "pibgre": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361937381/",
+      "commonName": "Pied-billed Grebe",
+      "scientificName": "Podilymbus podiceps"
+    },
+    "horgre": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361898961/",
+      "commonName": "Horned Grebe",
+      "scientificName": "Podiceps auritus"
+    },
+    "rengre": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361936651/",
+      "commonName": "Red-necked Grebe",
+      "scientificName": "Podiceps grisegena"
+    },
+    "eargre": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361844801/",
+      "commonName": "Eared Grebe",
+      "scientificName": "Podiceps nigricollis"
+    },
+    "rocpig": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956811/",
+      "commonName": "Rock Pigeon",
+      "scientificName": "Columba livia"
+    },
+    "paspig": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/100203571/",
+      "commonName": "Passenger Pigeon",
+      "scientificName": "Ectopistes migratorius"
+    },
+    "eucdov": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953091/",
+      "commonName": "Eurasian Collared-Dove",
+      "scientificName": "Streptopelia decaocto"
+    },
+    "cogdov": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361925361/",
+      "commonName": "Common Ground Dove",
+      "scientificName": "Columbina passerina"
+    },
+    "whwdov": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953241/",
+      "commonName": "White-winged Dove",
+      "scientificName": "Zenaida asiatica"
+    },
+    "moudov": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361957001/",
+      "commonName": "Mourning Dove",
+      "scientificName": "Zenaida macroura"
+    },
+    "yebcuc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361955881/",
+      "commonName": "Yellow-billed Cuckoo",
+      "scientificName": "Coccyzus americanus"
+    },
+    "bkbcuc": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361893741/poster",
+      "commonName": "Black-billed Cuckoo",
+      "scientificName": "Coccyzus erythropthalmus"
+    },
+    "comnig": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361918241/",
+      "commonName": "Common Nighthawk",
+      "scientificName": "Chordeiles minor"
+    },
+    "chwwid": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361541631/",
+      "commonName": "Chuck-will's-widow",
+      "scientificName": "Antrostomus carolinensis"
+    },
+    "chiswi": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361920781/",
+      "commonName": "Chimney Swift",
+      "scientificName": "Chaetura pelagica"
+    },
+    "rthhum": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954461/",
+      "commonName": "Ruby-throated Hummingbird",
+      "scientificName": "Archilochus colubris"
+    },
+    "bkchum": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953211/",
+      "commonName": "Black-chinned Hummingbird",
+      "scientificName": "Archilochus alexandri"
+    },
+    "rufhum": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361949321/",
+      "commonName": "Rufous Hummingbird",
+      "scientificName": "Selasphorus rufus"
+    },
+    "kinrai4": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361853421/",
+      "commonName": "King Rail",
+      "scientificName": "Rallus elegans"
+    },
+    "clarai11": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954721/",
+      "commonName": "Clapper Rail",
+      "scientificName": "Rallus crepitans"
+    },
+    "virrai": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950731/",
+      "commonName": "Virginia Rail",
+      "scientificName": "Rallus limicola"
+    },
+    "sora": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951561/",
+      "commonName": "Sora",
+      "scientificName": "Porzana carolina"
+    },
+    "comgal1": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950621/",
+      "commonName": "Common Gallinule",
+      "scientificName": "Gallinula galeata"
+    },
+    "y00475": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361949921/",
+      "commonName": "American Coot",
+      "scientificName": "Fulica americana"
+    },
+    "purgal2": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950631/",
+      "commonName": "Purple Gallinule",
+      "scientificName": "Porphyrio martinica"
+    },
+    "blkrai": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/360166311/poster",
+      "commonName": "Black Rail",
+      "scientificName": "Laterallus jamaicensis"
+    },
+    "limpki": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361942361/",
+      "commonName": "Limpkin",
+      "scientificName": "Aramus guarauna"
+    },
+    "sancra": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950291/",
+      "commonName": "Sandhill Crane",
+      "scientificName": "Antigone canadensis"
+    },
+    "bknsti": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361952271/",
+      "commonName": "Black-necked Stilt",
+      "scientificName": "Himantopus mexicanus"
+    },
+    "ameavo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361946461/",
+      "commonName": "American Avocet",
+      "scientificName": "Recurvirostra americana"
+    },
+    "ameoys": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361938131/",
+      "commonName": "American Oystercatcher",
+      "scientificName": "Haematopus palliatus"
+    },
+    "bkbplo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951941/",
+      "commonName": "Black-bellied Plover",
+      "scientificName": "Pluvialis squatarola"
+    },
+    "amgplo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361928191/",
+      "commonName": "American Golden-Plover",
+      "scientificName": "Pluvialis dominica"
+    },
+    "wilplo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361939451/",
+      "commonName": "Wilson's Plover",
+      "scientificName": "Charadrius wilsonia"
+    },
+    "semplo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954191/",
+      "commonName": "Semipalmated Plover",
+      "scientificName": "Charadrius semipalmatus"
+    },
+    "pipplo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951681/",
+      "commonName": "Piping Plover",
+      "scientificName": "Charadrius melodus"
+    },
+    "killde": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956381/",
+      "commonName": "Killdeer",
+      "scientificName": "Charadrius vociferus"
+    },
+    "whimbr": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361952411/",
+      "commonName": "Whimbrel",
+      "scientificName": "Numenius phaeopus"
+    },
+    "lobcur": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361946061/",
+      "commonName": "Long-billed Curlew",
+      "scientificName": "Numenius americanus"
+    },
+    "hudgod": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361922891/",
+      "commonName": "Hudsonian Godwit",
+      "scientificName": "Limosa haemastica"
+    },
+    "margod": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361955401/",
+      "commonName": "Marbled Godwit",
+      "scientificName": "Limosa fedoa"
+    },
+    "rudtur": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361944331/",
+      "commonName": "Ruddy Turnstone",
+      "scientificName": "Arenaria interpres"
+    },
+    "redkno": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361951111/",
+      "commonName": "Red Knot",
+      "scientificName": "Calidris canutus"
+    },
+    "ruff": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361940121/",
+      "commonName": "Ruff",
+      "scientificName": "Calidris pugnax"
+    },
+    "stisan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361945711/",
+      "commonName": "Stilt Sandpiper",
+      "scientificName": "Calidris himantopus"
+    },
+    "sander": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361937981/",
+      "commonName": "Sanderling",
+      "scientificName": "Calidris alba"
+    },
+    "dunlin": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954561/",
+      "commonName": "Dunlin",
+      "scientificName": "Calidris alpina"
+    },
+    "pursan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361759291/",
+      "commonName": "Purple Sandpiper",
+      "scientificName": "Calidris maritima"
+    },
+    "baisan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950101/",
+      "commonName": "Baird's Sandpiper",
+      "scientificName": "Calidris bairdii"
+    },
+    "leasan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956281/",
+      "commonName": "Least Sandpiper",
+      "scientificName": "Calidris minutilla"
+    },
+    "whrsan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361891601/thumb",
+      "commonName": "White-rumped Sandpiper",
+      "scientificName": "Calidris fuscicollis"
+    },
+    "bubsan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361899881/",
+      "commonName": "Buff-breasted Sandpiper",
+      "scientificName": "Calidris subruficollis"
+    },
+    "pecsan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956781/",
+      "commonName": "Pectoral Sandpiper",
+      "scientificName": "Calidris melanotos"
+    },
+    "semsan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361955651/",
+      "commonName": "Semipalmated Sandpiper",
+      "scientificName": "Calidris pusilla"
+    },
+    "wessan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361954501/",
+      "commonName": "Western Sandpiper",
+      "scientificName": "Calidris mauri"
+    },
+    "shbdow": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956981/",
+      "commonName": "Short-billed Dowitcher",
+      "scientificName": "Limnodromus griseus"
+    },
+    "lobdow": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361909491/",
+      "commonName": "Long-billed Dowitcher",
+      "scientificName": "Limnodromus scolopaceus"
+    },
+    "amewoo": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361921021/",
+      "commonName": "American Woodcock",
+      "scientificName": "Scolopax minor"
+    },
+    "wilsni1": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361950191/",
+      "commonName": "Wilson's Snipe",
+      "scientificName": "Gallinago delicata"
+    },
+    "wilpha": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361946301/",
+      "commonName": "Wilson's Phalarope",
+      "scientificName": "Phalaropus tricolor"
+    },
+    "renpha": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361952781/",
+      "commonName": "Red-necked Phalarope",
+      "scientificName": "Phalaropus lobatus"
+    },
+    "redpha1": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361630461/",
+      "commonName": "Red Phalarope",
+      "scientificName": "Phalaropus fulicarius"
+    },
+    "sposan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953531/",
+      "commonName": "Spotted Sandpiper",
+      "scientificName": "Actitis macularius"
+    },
+    "solsan": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361956871/",
+      "commonName": "Solitary Sandpiper",
+      "scientificName": "Tringa solitaria"
+    },
+    "greyel": {
+      "photoUrl": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/361953661/",
+      "commonName": "Greater Yellowlegs",
+      "scientificName": "Tringa melanoleuca"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "bird-by-color",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./app.js",
+  "scripts": {
+    "backend-dev": "nodemon --watch backend --ignore backend/db.json backend/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinpchang/bird-by-color.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinpchang/bird-by-color/issues"
+  },
+  "homepage": "https://github.com/justinpchang/bird-by-color#readme",
+  "engines": {
+    "node": "^12.20.0 || ^14.13.1 || >=16.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "lowdb": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
